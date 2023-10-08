@@ -1,0 +1,20 @@
+{
+  "AcceptPet": ${SERVER_PET},
+  "EnableCropSaver": ${SERVER_CROP_SAVER},
+  "PurchaseJojaMembership": ${SERVER_JOJA_RUN},
+  "FarmName": ${SERVER_FARM_NAME},
+  "StartingCabins": ${SERVER_STARTING_CABINS},
+  "CabinLayout": ${SERVER_CABIN_LAYOUT},
+  "ProfitMargin": ${SERVER_PROFIT_MARGIN},
+  "MoneyStyle": ${SERVER_MONEY_STYLE},
+  "FarmType": ${SERVER_FARM_TYPE},
+  "CommunityCenterBundles": ${SERVER_COMMUNITY_CENTER_BUNDLES},
+  "GuaranteeYear1Completable": ${SERVER_YEAR1_COMPLETABLE},
+  "MineRewards": ${SERVER_MINE_REWARDS},
+  "SpawnMonstersOnFarmAtNight": ${SERVER_MONSTERS_ON_FARM},
+  "RandomSeed": ${SERVER_SEED},
+  "PetSpecies": ${SERVER_PET_SPECIES},
+  "PetBreed": ${SERVER_PET_TYPE},
+  "PetName": ${SERVER_PET_NAME},
+  "MushroomsOrBats": ${SERVER_CAVE_TYPE}
+}
